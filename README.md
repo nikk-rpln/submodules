@@ -1,4 +1,5 @@
 submodules
 ==========
 
-To be deleted
+Just testing out having several modules within the same Git repo.
+
